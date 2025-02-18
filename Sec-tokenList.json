@@ -20,7 +20,7 @@
       "name": "WSEP",
       "symbol": "WSEP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x960B183242FEC77c993A6d8f99111A7d39d1950f.png"
+      "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokesns/main/assets/0x960B183242FEC77c993A6d8f99111A7d39d1950f.png"
     },
 
     {
@@ -29,7 +29,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 19516,
-      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0xFaF893D2f71a3e68453c908f4236605caA848961.png"
+      "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokesns/main/assets/0xFaF893D2f71a3e68453c908f4236605caA848961.png"
     },
 
     {
@@ -48,13 +48,21 @@
       "address": "0x84286630ED44C306d9554D64ec32E6fdF2e65860",
       "chainId": 19516,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/usdt.png"
+      "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokesns/main/assets/usdt.png"
     },
 
     {
       "name": "MATIC Token",
       "symbol": "MATIC",
       "address": "0x6b0AA70B6344b30223900e8c17815d368C60eD7d",
+      "chainId": 19516,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
+    },
+      {
+      "name": "Mataxa",
+      "symbol": "MAT",
+      "address": "0xEe5F62a80C919f25931c8619ad89911B14B246c4",
       "chainId": 19516,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
