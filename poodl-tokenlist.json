@@ -1,0 +1,95 @@
+{
+  "name": "Poodl Token List",
+  "timestamp": "2023-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+
+    {
+      "chainId": 15259,
+      "address": "0x6cE9907353415427ac9242605188c26Da08E2C83",
+      "name": "WPOODL",
+      "symbol": "WPOODL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0xf7EBAD581d13f73e7b85AaFdC2F70c6Ab10d7f31.png"
+    },
+
+
+
+    {
+      "name": "ETH",
+      "address": "0xa9c58E8469D19A2972350B43C40f63D78063b876",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 15259,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0xFaF893D2f71a3e68453c908f4236605caA848961.png"
+    },
+
+
+    {
+      "name": "BNB Token",
+      "symbol": "BNB",
+      "address": "0x292da380881a2d745D38D92a13Ede45F34338600",
+      "chainId": 15259,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
+    },
+
+    {
+      "name": "MATIC Token",
+      "symbol": "MATIC",
+      "address": "0x22d3450d13Fa5c1f3D94ecdEE64aBBD087FD1aDa",
+      "chainId": 15259,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
+    },
+
+    {
+      "name": "USDT Token",
+      "symbol": "USDT",
+      "address": "0x49e137595ae4D43B36d4Ac60AA068d021CA1794e",
+      "chainId": 15259,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/usdt.png"
+    },
+
+    {
+      "name": "Pepe On Poodl",
+      "symbol": "PEPE",
+      "address": "0x02598Af5445b3851E8B8414c549B458Ba1dff972",
+      "chainId": 15259,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/refs/heads/main/assets/0x02598Af5445b3851E8B8414c549B458Ba1dff972.png"
+    },
+
+    {
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "address": "0x8dfD3D643DDaaED20Cb76781F7f6a28aC981D035",
+      "chainId": 15259,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/refs/heads/main/assets/0x8dfD3D643DDaaED20Cb76781F7f6a28aC981D035.png"
+    },
+
+
+    {
+      "name": "TRUMP LEGACY",
+      "symbol": "TRUMP",
+      "address": "0xCaa8bFDF65356ef981eEeb6890ADB9A44Cdfd57A",
+      "chainId": 15259,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/refs/heads/main/assets/0xCaa8bFDF65356ef981eEeb6890ADB9A44Cdfd57A.jpeg"
+    }
+
+
+  ]
+}

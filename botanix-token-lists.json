@@ -1,0 +1,55 @@
+{
+  "name": "Botanix Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+  "keywords": ["BTC", "default"],
+  "tokens": [
+    {
+      "name": "WBTC Token",
+      "symbol": "WBTC",
+      "address": "0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441",
+      "chainId": 3637,
+      "decimals": 18,
+      "logoURI": "https://btxtestchain.com/images/botanix-favicon.png"
+    },
+
+
+    {
+      "name": "ETH Token",
+      "symbol": "ETH",
+      "address": "0x1852B91c4A2d817e8a479e91c1c2607E46FEE414",
+      "chainId": 3637,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+
+
+    {
+      "name": "MATIC Token",
+      "symbol": "MATIC",
+      "address": "0xE0a27d655485FDba465c9F68c52b59c23C838370",
+      "chainId": 3637,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
+    },
+
+    {
+      "name": "BNB Token",
+      "symbol": "BNB",
+      "address": "0x9fa6182C041c52b714d8b402C4e358881a53067d",
+      "chainId": 3637,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
+    }
+
+
+
+
+  ]
+}

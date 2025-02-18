@@ -1,0 +1,61 @@
+{
+  "name": "DCP Token List",
+  "timestamp": "2023-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+
+    {
+      "chainId": 21223,
+      "address": "0x78577DBdc22eA4b3d595d3bA411fADDba30C8eeE",
+      "name": "WDCP",
+      "symbol": "WDCP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x78577DBdc22eA4b3d595d3bA411fADDba30C8eeE.png"
+    },
+
+
+
+
+    {
+      "name": "ETH Token",
+      "symbol": "ETH",
+      "address": "0xE306f60b39C5B89635619d156864C80bea2D420d",
+      "chainId": 21223,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+
+
+    {
+      "name": "BNB Token",
+      "symbol": "BNB",
+      "address": "0x7909dFfBc267317D8e3E1A6870329b88434FbcCf",
+      "chainId": 21223,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
+    },
+
+    {
+      "name": "MATIC Token",
+      "symbol": "MATIC",
+      "address": "0x6BEAcca917d7B6290c6509040356cba4D7D99899",
+      "chainId": 21223,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
+    }
+
+
+
+
+  ]
+}

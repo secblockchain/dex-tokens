@@ -1,0 +1,78 @@
+{
+  "name": "Token List",
+  "timestamp": "2023-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+
+    {
+      "chainId": 9797,
+      "address": "0x831fDCCeB955b955542EbaE64D433C96C7240339",
+      "name": "WOZ7",
+      "symbol": "WOZ7",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x831fDCCeB955b955542EbaE64D433C96C7240339.png"
+    },
+
+
+
+
+    {
+      "name": "ETH Token",
+      "symbol": "ETH",
+      "address": "0x77a1aAe62bedCa1d9d459E89b945b1b929258469",
+      "chainId": 9797,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+
+
+    {
+      "name": "BNB Token",
+      "symbol": "BNB",
+      "address": "0xB4dbC2a1f19dDEc3e1180cDDa0D57a1E688fd2BE",
+      "chainId": 9797,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
+    },
+
+    {
+      "name": "MATIC Token",
+      "symbol": "MATIC",
+      "address": "0x576e4B786B0F08CDe0ff0AB2d6830E511F57a1F1",
+      "chainId": 9797,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
+    },
+
+
+    {
+      "name": "Avalanche Token",
+      "symbol": "AVAX",
+      "address": "0x0fc949FBf3b0916109dA623a0d068e75343f16eD",
+      "chainId": 9797,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x0fc949FBf3b0916109dA623a0d068e75343f16eD.png"
+    },
+
+    {
+      "name": "Fantom Token",
+      "symbol": "FTM",
+      "address": "0xB1691590F19Fd714b3D5263Db012c8939866966d",
+      "chainId": 9797,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0xB1691590F19Fd714b3D5263Db012c8939866966d.png"
+    }
+
+
+  ]
+}
