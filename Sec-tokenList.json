@@ -66,8 +66,14 @@
       "chainId": 19516,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/Mataxa.jpg"
+    },
+    {
+      "name": "Rilling",
+      "symbol": "RIL",
+      "address": "0x90b18e8183b7fA92987295c583AE792Cb1d7C842",
+      "chainId": 19516,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/Rilling.jpg"
     }
-
-
   ]
 }
