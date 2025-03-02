@@ -17,14 +17,14 @@
     {
       "chainId": 19515,
       "address": "0x321c8EC072853d23eDb13525e07c9388bc2042eF",
-      "name": "WSEP",
+      "name": "Wrapped SEP",
       "symbol": "WSEP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/0x960B183242FEC77c993A6d8f99111A7d39d1950f.png"
     },
 
     {
-      "name": "ETH",
+      "name": "Pegged ETH Token",
       "address": "0x55D4680af08F06356D94F8447217857cc9342c9a",
       "symbol": "ETH",
       "decimals": 18,
@@ -33,7 +33,7 @@
     },
 
     {
-      "name": "BNB Token",
+      "name": "Pegged BNB Token",
       "symbol": "BNB",
       "address": "0xa166339230Df49d510092651b3A50a06Bf3f17cb",
       "chainId": 19515,
