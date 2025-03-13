@@ -48,6 +48,23 @@
       "chainId": 19515,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/Mataxa.jpg"
+    },
+    {
+      "name": "Rilling",
+      "symbol": "RIL",
+      "address": "0xbE260409713E57b9d766dB551472f80af6cA3a9A",
+      "chainId": 19515,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/Rilling.jpg"
+    },
+    {
+      "name": "Sventronik",
+      "symbol": "SVT",
+      "address": "0x42eD975bB82939e8cFD731d9192c45a5A990B507",
+      "chainId": 19515,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/svt.jpg"
     }
   ]
 }
+
