@@ -64,6 +64,14 @@
       "chainId": 19515,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/svt.jpg"
+    },
+    {
+      "name": "Smart Energy Dollar",
+      "symbol": "SED",
+      "address": "0x32ED35a604f480967de31911c3717acC7b4dC136",
+      "chainId": 19515,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/usdt.png"
     }
   ]
 }
