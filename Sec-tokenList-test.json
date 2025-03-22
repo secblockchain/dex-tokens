@@ -80,6 +80,22 @@
       "symbol": "WMAT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/Mataxa.jpg"
+    },
+    {
+      "name": "Wraped Sventronik",
+      "symbol": "WSVT",
+      "address": "0x63fAe88763eFdfaB396207819b31ecf210426E10",
+      "chainId": 19515,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/svt.jpg"
+    },
+    {
+      "name": "Wraped Rilling",
+      "symbol": "WRIL",
+      "address": "0x9927aF9EE08fd612Cb5e22bd8749CA45Fa9f9657",
+      "chainId": 19515,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/Rilling.jpg"
     }
   ]
 }
