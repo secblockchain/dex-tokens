@@ -72,6 +72,14 @@
       "chainId": 19515,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/usdt.png"
+    },
+    {
+      "chainId": 19515,
+      "address": "0x11087e8d3F2e1f413e4d7BE59710802B8596b95D",
+      "name": "Wrapped MATAXA",
+      "symbol": "WMAT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/Mataxa.jpg"
     }
   ]
 }
