@@ -22,6 +22,26 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/0x960B183242FEC77c993A6d8f99111A7d39d1950f.png"
     },
+
+    {
+      "name": "ETH",
+      "address": "0x62B6e789Ca7B9b90aBB5a4D12E8eCF95781aeAeB",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 19516,
+      "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/0xFaF893D2f71a3e68453c908f4236605caA848961.png"
+    },
+
+    {
+      "name": "BNB Token",
+      "symbol": "BNB",
+      "address": "0x622C5560feb72d96Af7f6F3152526de5CCbB6323",
+      "chainId": 19516,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
+    },
+
+
     {
       "name": "Smart Energy Dollar",
       "symbol": "SED",
@@ -29,6 +49,15 @@
       "chainId": 19516,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/usdt.png"
+    },
+
+    {
+      "name": "MATIC Token",
+      "symbol": "MATIC",
+      "address": "0x6b0AA70B6344b30223900e8c17815d368C60eD7d",
+      "chainId": 19516,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
     },
       {
       "name": "Mataxa",
