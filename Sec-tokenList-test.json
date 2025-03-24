@@ -22,25 +22,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/0x960B183242FEC77c993A6d8f99111A7d39d1950f.png"
     },
-
-    {
-      "name": "Pegged ETH Token",
-      "address": "0x55D4680af08F06356D94F8447217857cc9342c9a",
-      "symbol": "ETH",
-      "decimals": 18,
-      "chainId": 19515,
-      "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/0xFaF893D2f71a3e68453c908f4236605caA848961.png"
-    },
-
-    {
-      "name": "Pegged BNB Token",
-      "symbol": "BNB",
-      "address": "0xa166339230Df49d510092651b3A50a06Bf3f17cb",
-      "chainId": 19515,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
-    },
-
       {
       "name": "Mataxa",
       "symbol": "MAT",
