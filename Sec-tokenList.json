@@ -53,6 +53,14 @@
       "chainId": 19516,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/svt.jpg"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "chainId": 1,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/secblockchain/dex-tokens/main/assets/0x960B183242FEC77c993A6d8f99111A7d39d1950f.png"
     }
   ]
 }
